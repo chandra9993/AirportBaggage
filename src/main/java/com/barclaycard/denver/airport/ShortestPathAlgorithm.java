@@ -4,7 +4,11 @@ import com.barclaycard.denver.airport.model.Conveyer;
 import com.barclaycard.denver.airport.model.Gate;
 
 import java.util.*;
-
+/***
+ * 
+ * @author hqcpundr
+ *
+ */
 public class ShortestPathAlgorithm {
 
         private final List<Gate> nodes;

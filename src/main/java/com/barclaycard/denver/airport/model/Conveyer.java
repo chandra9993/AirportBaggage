@@ -1,5 +1,9 @@
 package com.barclaycard.denver.airport.model;
-
+/***
+ * 
+ * @author hqcpundr
+ *
+ */
 public class Conveyer {
 
     private final Gate source;

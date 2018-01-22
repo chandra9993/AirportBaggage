@@ -1,5 +1,9 @@
 package com.barclaycard.denver.airport.model;
-
+/***
+ * 
+ * @author hqcpundr
+ *
+ */
 public class Departures {
     private final String flightId;
     private final Gate gate;

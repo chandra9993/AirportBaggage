@@ -4,7 +4,11 @@ import com.barclaycard.denver.airport.model.Conveyer;
 import com.barclaycard.denver.airport.model.Gate;
 
 import java.util.List;
-
+/***
+ * 
+ * @author hqcpundr
+ *
+ */
 public class Graph {
     private final List<Gate> gates;
     private final List<Conveyer> conveyers;
