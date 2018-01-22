@@ -1,7 +1,8 @@
 1. AirportBaggage-0.0.1.RELEASE.jar file is the solution to Theater seating problem
 To run this app Please run below command from dist folder (Example:C:\AirportBaggage\dist\)
 java -jar AirportBaggage-0.0.1.RELEASE.jar
-
+	or
+Run com.barclaycard.denver.airport.AirportBaggageApp class 
 2. It will wait for the user to enter the input as shown in the sampel input sections
 
 3. IT expects "# Section: <SectionName>" as a header row for each section
