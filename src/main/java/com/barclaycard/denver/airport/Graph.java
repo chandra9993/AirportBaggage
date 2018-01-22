@@ -7,10 +7,12 @@ import java.util.List;
 /***
  * 
  * @author hqcpundr
- *
+ * Building a graph Data structure from edges and vertices
  */
 public class Graph {
+    // Edges of the Graph data structure
     private final List<Gate> gates;
+    // Vertices of the Graph Data Structure
     private final List<Conveyer> conveyers;
 
     public Graph(List<Gate> Gates, List<Conveyer> Conveyers) {

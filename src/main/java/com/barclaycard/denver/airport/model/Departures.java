@@ -2,12 +2,15 @@ package com.barclaycard.denver.airport.model;
 /***
  * 
  * @author hqcpundr
- *
+ * Departures class to store the flight departure information.
  */
 public class Departures {
     private final String flightId;
+    // The gate where the flight is taking off from
     private final Gate gate;
+    // Destination of the fligh
     private final String destination;
+    // Flight Departure time
     private final String time;
 
     public Departures(String flightId, Gate gate, String destination, String time) {

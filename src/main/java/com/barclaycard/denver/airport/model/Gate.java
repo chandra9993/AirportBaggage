@@ -2,8 +2,9 @@ package com.barclaycard.denver.airport.model;
 /***
  * 
  * @author hqcpundr
- *
+ * Gate class stored the gate Id
  */
+
 public class Gate {
 private final String gateId;
 

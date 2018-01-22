@@ -7,7 +7,9 @@ import java.util.*;
 /***
  * 
  * @author hqcpundr
- *
+ * Below is the standard Dijkshtra Algorithm for finding the shortest route
+ * In the below algorithm the Gate is considered as edge in the Graph data structure
+ * Conveyer is considered as the vertex in the Graph data structure
  */
 public class ShortestPathAlgorithm {
 
